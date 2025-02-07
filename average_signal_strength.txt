@@ -1,0 +1,22 @@
+Overall Signal Strength:
+Overall - Average 4G RSRP: -79.45 dBm
+Overall - Average 5G RSRP: -72.36 dBm
+Overall - 4G Coverage: 81.28%
+Overall - 5G Coverage: 93.67%
+
+Average Signal Strength per Floor:
+Floor 0 - Average 4G RSRP: -87.25 dBm
+Floor 0 - Average 5G RSRP: -77.52 dBm
+Floor 0 - 4G Coverage: 57.73%
+Floor 0 - 5G Coverage: 82.32%
+
+Floor 1 - Average 4G RSRP: -77.60 dBm
+Floor 1 - Average 5G RSRP: -70.77 dBm
+Floor 1 - 4G Coverage: 88.54%
+Floor 1 - 5G Coverage: 98.68%
+
+Floor 2 - Average 4G RSRP: -73.51 dBm
+Floor 2 - Average 5G RSRP: -68.80 dBm
+Floor 2 - 4G Coverage: 97.56%
+Floor 2 - 5G Coverage: 100.00%
+
