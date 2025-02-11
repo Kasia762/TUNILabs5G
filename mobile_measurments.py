@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-df4G = pd.read_csv('test_data.csv')
-df5G = pd.read_csv('test_data.csv')
+df4G = pd.read_csv('mobile_mesurements_1.csv')
+df5G = pd.read_csv('mobile_mesurements_2.csv')
 
 def mean_values(data):
     DL_mean = round(data["DL"].mean())
@@ -17,7 +17,7 @@ df4G_mean = mean_values(df4G)
 df5G_mean = mean_values(df5G)
 
 mean_df = pd.DataFrame({
-    'Metric': ['DL', 'UL', 'Latency', 'Jitter'],
+    'Metric': ['DL', 'UL', 'latency', 'jitter'],
     '4G': df4G_mean,
     '5G': df5G_mean
 })
